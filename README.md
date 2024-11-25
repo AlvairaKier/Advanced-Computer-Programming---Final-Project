@@ -39,7 +39,7 @@ KeepSafe: A money tracking system where it keeps a data where your money go. Thi
 
 4. In order to import the SQL database in the phpMyadmin:
     - Open the `KeepSafe.sql or KeepSafe.db` file and copy the entire script (including one blank space at the bottom).
-    - Click `New` navigate to `SQL` and paste the file you chose.
+    - Click `New` navigate to `SQL` and paste the script you chose.
 
 5. Run the program:
     - Open the `KeepSafe Program` folder in Visual Studio Code and run the program.
