@@ -26,26 +26,20 @@ KeepSafe: A money tracking system where it keeps a data where your money go. Thi
 # III. SDG and Its Integration into the Project
 
   **SDG 12: Responsible Consumption and Production**
-   -  It focuses on promoting sustainable practices to ensure that consumption and production patterns are environmentally friendly, socially inclusive, and economically viable.
+   -  SDG 12 focuses on promoting sustainable practices to ensure that consumption and production patterns are environmentally friendly, socially inclusive, and economically viable.
    -  The program helps the users to be a more responsible consumer by being aware of their expenses and having a provided "savings account" for them.
 
 # IV. Instructions for Running the Program
 
-  1. Download the `KeepSafe.zip`
+ 1. First is download the `KeepSafe.zip`.
 
-2. Extract the `KeepSafe.zip` this file contains:
-    - `KeepSafe` (folder):
-       - `Backup`
-       - `KeepSafe Program`
-       - `Images Used` folder:
-           - `KeepSafeLog.png`
-          
-  
-3. Open XAMPP and start the MySQL service.
+2. Extract the `KeepSafe.zip` this file contains all that is needed to run the program, including the images used.
+   
+3. Start up XAMPP and start the MySQL service and Apache then naviagte through the MySQL admin that will redirect you to phpMyadmin.
 
-4. Import the SQL database:
+4. In order to import the SQL database in the phpMyadmin:
     - Open the `KeepSafe.sql or KeepSafe.db` file and copy the entire script (including one blank space at the bottom).
-    - Open Command Prompt and paste the script to create the necessary tables and structure.
+    - Click `New` navigate to `SQL` and paste the file you chose.
 
 5. Run the program:
     - Open the `KeepSafe Program` folder in Visual Studio Code and run the program.
