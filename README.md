@@ -1,6 +1,6 @@
 # I. Brief Project Overview
 
-KeepSafe: A money tracking system where it keeps a data where your money go. This system allows the user to know what they do with their money, where their money go, spending their money properly appropriate with their recorded transactions separating their wallets for allowance and savings. The program includes using Python, Tkinter, and MySQL.
+KeepSafe: A money tracking system where it keeps a data where your money goes. This system allows the user to know what they do with their money, where their money go, spending their money properly appropriate with their recorded transactions separating their wallets for allowance and savings. The program includes using Python, Tkinter, and MySQL.
 
 # II. Python Concepts, Libraries, and Database Application
 ## 1. Python Concepts
