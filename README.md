@@ -25,9 +25,14 @@ KeepSafe: A money tracking system where it keeps a data where your money goes. T
 
 # III. SDG and Its Integration into the Project
 
+   **SDG 1: No Poverty**
+   - By helping users manage their finances effectively, the system reduces the risk of overspending and encourages savings. This can empower users to achieve financial stability and avoid falling into poverty.
+     
+  **SDG 8: Decent Work and Economic Growth**
+   - The app promotes financial literacy and responsible money management, which are critical to sustaining economic growth. Proper allocation of funds enables individuals to contribute effectively to their personal and professional goals.  
+     
   **SDG 12: Responsible Consumption and Production**
-   -  SDG 12 focuses on promoting sustainable practices to ensure that consumption and production patterns are environmentally friendly, socially inclusive, and economically viable.
-   -  The program helps the users to be a more responsible consumer by being aware of their expenses and having a provided "savings account" for them.
+   - The system emphasizes tracking and managing expenses responsibly. It encourages users to allocate their resources effectively and align spending with their priorities, promoting sustainable financial habits.   
 
 # IV. Instructions for Running the Program
 
